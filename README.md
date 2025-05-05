@@ -10,6 +10,7 @@ I plan to major in either Robotics or Machine Intelligence, so I'm always lookin
 <hr>
 
 ## 🛠️ Skills
+Check out my [Handbooks](https://github.com/liuandy1207/Handbooks) repository for notes!
 ### Languages
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
