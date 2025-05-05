@@ -31,9 +31,7 @@ I'm currently learning Three.js to make a portfolio site!
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liuandy1207@gmail.com)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/liuandy1207)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sevenpast12)
-
-
-
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/liulong1119)
 
 <!--
 **liuandy1207/liuandy1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
