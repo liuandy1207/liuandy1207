@@ -3,7 +3,7 @@
 ## 💫 About Me
 I'm studying Engineering Science at the University of Toronto!
 
-I plan to major in either Robotics or Machine Intelligence, so I'm always looking for opportunties to gain experience!
+I plan to major in either Robotics or Machine Intelligence, so I'm always looking for opportunties to gain experience in these fields!
 
 <!-- Check out my portfolio site! -->
 
