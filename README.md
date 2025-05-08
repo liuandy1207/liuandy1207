@@ -5,7 +5,7 @@ I'm currently studying Engineering Science at the University of Toronto. I plan 
 
 Driven by a deep love of learning, I dedicate myself to the pursuit of experience, expertise, and excellence. <br>
 
-Through this journey, I hope to become someone who can repay all those who have helped me along the way.
+As I grow, I strive to become someone who can repay all those who have helped me along the way.
 
 <!-- Check out my portfolio site! -->
 
