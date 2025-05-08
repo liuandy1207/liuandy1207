@@ -1,28 +1,40 @@
-<h1 align="center">Hey, I'm Andy! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGs1dzdvZmF6NnVxZ2RjMThuanNhOWJqNjdmYXlqajd4eGNmcm40ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NJPnpyrRvscLyAD8VM/giphy.gif" width="50"></h1>
+<h1 align="center">Hey! I'm Andy! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGs1dzdvZmF6NnVxZ2RjMThuanNhOWJqNjdmYXlqajd4eGNmcm40ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NJPnpyrRvscLyAD8VM/giphy.gif" width="50"></h1>
 
 ## 💫 About Me
-I'm studying Engineering Science at the University of Toronto, looking to major in either Robotics or Machine Intelligence.
+I'm currently studying Engineering Science at the University of Toronto. I plan to major in either Robotics or Machine Intelligence. <br>
 
-I love to learn all sorts of things across all disciplines, and I'm always looking for opportunities to gain more experience!
+Driven by a deep love of learning, I dedicate myself to the pursuit of experience, expertise, and excellence. <br>
+
+Through this journey, I hope to become someone who can repay all those who have helped me along the way!
 
 <!-- Check out my portfolio site! -->
 
 <hr>
 
-## 🛠️ Skills
-Check out my [Handbooks](https://github.com/liuandy1207/Handbooks) repository for notes!
+## 🏹 Skills
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 I'm currently learning Blender and Three.js to make a portfolio site!
 
-### 💻 Tools
-<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+### 📟 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![OpenJDK](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<br>
+
+### 💻 Web Dev
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<br>
+
+### ⚙️ Other
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+
+_Check out my [Handbooks](https://github.com/liuandy1207/Handbooks) repository for notes!_
 
 <hr>
 
