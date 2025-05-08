@@ -1,5 +1,3 @@
-<h1 align="center">Hey! I'm Andy! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGs1dzdvZmF6NnVxZ2RjMThuanNhOWJqNjdmYXlqajd4eGNmcm40ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NJPnpyrRvscLyAD8VM/giphy.gif" width="50"></h1>
-
 ## 💫 About Me
 I'm currently studying Engineering Science at the University of Toronto. I plan to major in either Robotics or Machine Intelligence. <br>
 
@@ -17,6 +15,8 @@ As I grow, I strive to become someone who can repay all those who have helped me
 I'm currently learning Blender and Three.js to make a portfolio site!
 
 <!-- I DESPISE THAT THERE IS NO TWO COLUMN LAYOUT FOR MARKDOWN--> 
+<img src="https://octodex.github.com/images/hula_loop_octodex03.gif" align="right" width="300">
+
 
 ### 📟 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
