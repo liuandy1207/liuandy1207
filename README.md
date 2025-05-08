@@ -17,7 +17,7 @@ As I grow, I strive to become someone who can repay all those who have helped me
 I'm currently learning **Blender** and **Three.js** to make a portfolio site!
 
 <!-- I DESPISE THAT THERE IS NO TWO COLUMN LAYOUT FOR MARKDOWN--> 
-<img src="https://octodex.github.com/images/NUX_Octodex.gif" align="right" width="300">
+<img src="https://octodex.github.com/images/hula_loop_octodex03.gif" align="right" width="300">
 
 
 ### 📟 Programming Languages
