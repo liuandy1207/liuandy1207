@@ -3,7 +3,7 @@
 ## 💫 About Me
 I'm currently studying **Engineering Science** at the **University of Toronto**. I plan to major in **Robotics** or **Machine Intelligence**. <br>
 
-Driven by a deep love of learning, I dedicate myself to the pursuit of **experience**, **expertise**, and **excellence**. <br>
+Driven by a genuine love of learning, I dedicate myself to the pursuit of **experience**, **expertise**, and **excellence**. <br>
 
 As I grow, I strive to become someone who can repay all those who have helped me along the way!
 
@@ -14,7 +14,7 @@ As I grow, I strive to become someone who can repay all those who have helped me
 ## 🏹 Skills
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
-I'm currently learning **Blender** and **Three.js** to make a portfolio site!
+I'm currently learning about **meteorology**. 
 
 <!-- I DESPISE THAT THERE IS NO TWO COLUMN LAYOUT FOR MARKDOWN--> 
 <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" align="right" width="300">
@@ -33,8 +33,6 @@ I'm currently learning **Blender** and **Three.js** to make a portfolio site!
 ### ⚙️ Other
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-
-_Check out my [Handbooks](https://github.com/liuandy1207/Handbooks) repository for notes!_
 
 <hr>
 
