@@ -12,10 +12,12 @@ Driven by a genuine love of learning, I dedicate myself to the pursuit of **expe
 ## 🏹 Skills
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
+
 I'm currently learning **Zephyr**. 
+<img src="https://octodex.github.com/images/hula_loop_octodex03.gif" align="right" width="300">
 
 <!-- I DESPISE THAT THERE IS NO TWO COLUMN LAYOUT FOR MARKDOWN--> 
-<img src="https://octodex.github.com/images/hula_loop_octodex03.gif" align="right" width="300">
+
 
 
 ### 📟 Programming Languages
