@@ -3,7 +3,7 @@
 ## 💫 About Me
 I'm currently studying **Engineering Science** at the **University of Toronto**. I plan to major in **Robotics** or **Machine Intelligence**. <br>
 
-Driven by a genuine love of learning, I dedicate myself to the pursuit of **experience**, **expertise**, and **excellence**.
+Driven by a genuine love of learning, I have dedicated myself to the pursuit of **experience**, **expertise**, and **excellence**.
 
 <!-- Check out my portfolio site! -->
 
