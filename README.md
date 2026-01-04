@@ -13,7 +13,7 @@ Driven by a genuine love of learning, I dedicate myself to the pursuit of **expe
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 
-I'm currently learning **SystemVerilog** and **RISC-V Assembly**. 
+I'm currently learning **Leaflet.js**. 
 <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" align="right" width="300">
 
 <!-- I DESPISE THAT THERE IS NO TWO COLUMN LAYOUT FOR MARKDOWN--> 
