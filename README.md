@@ -12,13 +12,10 @@ Driven by a genuine love of learning, I dedicate myself to the pursuit of **expe
 ## 🏹 Skills
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
-
 I'm currently learning **Leaflet.js**. 
 <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" align="right" width="300">
 
 <!-- I DESPISE THAT THERE IS NO TWO COLUMN LAYOUT FOR MARKDOWN--> 
-
-
 
 ### 📟 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -46,33 +43,3 @@ I'm currently learning **Leaflet.js**.
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/liulong1119)
 
 </div>
-
-<!--
-**liuandy1207/liuandy1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-## 🎯 Learning Goals
-I have a deep love for learning and an equally strong passion for sharing what I learn with others!
-
-There's so much to learn and experience in the world, and never quite enough time in a day (or even a lifetime) to chase it all.
-
-_But that won't stop me from trying._
-
-### I'm currently learning:
-- 🌟 Three.js (for a portfolio site)  <br>
-- 🌟 Python (for a handbook) <br>
-- 🌟 Ukulele (for fun!)
-
-<hr>
--->
