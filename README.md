@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Andy! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGs1dzdvZmF6NnVxZ2RjMThuanNhOWJqNjdmYXlqajd4eGNmcm40ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NJPnpyrRvscLyAD8VM/giphy.gif" width="50"></h1>
 
-## 💫 About Me
-I'm currently studying **Engineering Science** at the **University of Toronto**. I plan to major in **ECE** with minors in **Robotics and Mechatronics** and **Advanced Manufacturing**. <br>
+## About Me
+I'm currently studying **Engineering Science** at the **University of Toronto**. I plan to major in **ECE** with minors in **Robotics & Mechatronics** and **Advanced Manufacturing**. <br>
 
 Driven by a genuine love of learning, I dedicate myself to the pursuit of **experience**, **expertise**, and **excellence**.
 
@@ -11,7 +11,7 @@ Check out my [resume](./Resume.pdf)!
 
 <hr>
 
-## 🏹 Skills
+## Skills
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 I'm currently learning **Leaflet.js**. 
@@ -19,17 +19,19 @@ I'm currently learning **Leaflet.js**.
 
 <!-- I DESPISE THAT THERE IS NO TWO COLUMN LAYOUT FOR MARKDOWN--> 
 
-### 📟 Programming Languages
+### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![OpenJDK](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 💻 Web Dev 
+### Web Dev 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Other
+### Other
+![ESP32](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
