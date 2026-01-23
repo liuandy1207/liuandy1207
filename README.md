@@ -5,7 +5,7 @@ I'm currently studying **Engineering Science** at the **University of Toronto**.
 
 Driven by a genuine love of learning, I dedicate myself to the pursuit of **experience**, **expertise**, and **excellence**.
 
-Check out my resume!
+Check out my [resume](./Resume.pdf)!
 
 <!-- Check out my portfolio site! -->
 
