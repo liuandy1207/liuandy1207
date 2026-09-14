@@ -3,7 +3,7 @@
 ## About Me
 I'm currently studying **Engineering Science** at the **University of Toronto**. I plan to major in **Electrical and Computer Engineering** with minors in **Robotics & Mechatronics** and **Artifical Intelligence**. <br>
 
-Check out my [resume](./Resume.pdf)!
+Check out my [resume](./Resume.pdf) and my portfolio @ [liuandy1207.dev](https://liuandy1207.dev)!
 
 <!-- Check out my portfolio site! -->
 
@@ -30,6 +30,7 @@ I'm currently learning **Zephyr**.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 
 ### Robotics / Embedded Systems
 ![ESP32](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
